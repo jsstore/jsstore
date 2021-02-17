@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jsstore
+- 👀 I’m interested in creating open source soft for developers
+- 🌱 I’m currently learning Go and Python but my main skill is JavaScript
